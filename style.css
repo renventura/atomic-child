@@ -1,0 +1,29 @@
+/*
+	Theme Name: Atomic Child
+	Theme URI: https://arraythemes.com/themes/atomic-wordpress-theme/
+	Author: Ren Ventura
+	Author URI: https://arraythemes.com/
+	Description: A child theme to customize the Atomic parent theme from Array Themes
+	Version: 1.0.0
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Text Domain: atomic-child
+	Domain Path: /languages/
+	Template: atomic
+*/
+
+/*
+	This is a starter style.css file for your child theme. For more
+	information about child themes, visit the following web page:
+	http://codex.wordpress.org/Child_Themes
+*/
+
+/* Add your CSS customizations below this line */
+
+.site-header {
+	background: #225997;
+}
+
+.author-profile-links a:not(:last-child) {
+	margin-right: 12px;
+}
